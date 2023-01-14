@@ -14,8 +14,7 @@ Participante da primeira Piscina 42 no Brasil - (2019), oferecido pela École 42
 
 Realizei diversos cursos pela Fundação Bradesco com foco em frontend: HTML, CSS, JavaScript e Design Gráfico.
 
-HABILIDADES
-Lógica de Programação | NodeJs | API Rest | Express | Nodemon | Insomnia | JavaScript | Angular | HTML | CSS | Bootstrap | Banco de Dados | SQL | GIT e GITHub | Azure DEVOPS | Scrum | Pacote Office 365 | Gestão de Projetos | Illustrator | Photoshop | InDesign | Business Model Canvas | Inglês | Espanhol
+HABILIDADES: Lógica de Programação | NodeJs | API Rest | Express | Nodemon | Insomnia | JavaScript | Angular | HTML | CSS | Bootstrap | Banco de Dados | SQL | GIT e GITHub | Azure DEVOPS | Visual Studio | Visual Studio Code | Scrum | Pacote Office 365 | Gestão de Projetos | Illustrator | Photoshop | InDesign | Business Model Canvas | Inglês Intermediário | Espanhol Básico
 
   <div style="display: inline_block"><br>
   <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
