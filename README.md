@@ -9,7 +9,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   </div> 
- 
+   <br>
+ <p>Curioso por natureza, gosto de aprender métodos e projetar soluções, somado com o desejo de criar, encontrei na área de desenvolvimento de software o meu objetivo profissional. Hoje sou o primeiro formado do curso Superior de Tecnologia em Design de Mídias Digitais da Fatec - Faculdade de Tecnologia do Estado de São Paulo. Além disso fui reconhecido pela instituição com a Láurea Acadêmica, por ser o aluno concluinte com a maior nota média.</p>
+  
  <br>
 <div> 
   <a href="https://discordapp.com/users/luisoliveira.jr#9203" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
