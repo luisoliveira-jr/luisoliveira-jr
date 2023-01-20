@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/luisoli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/tim_luiiss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </div>
-
+ <br>
 Curioso por natureza, gosto de aprender métodos e projetar soluções, somado com o desejo de criar, encontrei na área de desenvolvimento de software o meu objetivo profissional.
 
 Formado no Curso superior de tecnologia em design de mídias digitais (Julho 2018 - Julho 2021) FATEC - Faculdade de Tecnologia do Estado de São Paulo. Reconhecido pela instituição com a Láurea Acadêmica, por ser o aluno concluinte com a maior nota média.
